@@ -1,0 +1,10 @@
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Bubble Sort Selecyion Descending\bin\Debug\Bubble Sort Selecyion Descending.exe.config
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Bubble Sort Selecyion Descending\bin\Debug\Bubble Sort Selecyion Descending.exe
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Bubble Sort Selecyion Descending\bin\Debug\Bubble Sort Selecyion Descending.pdb
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Bubble Sort Selecyion Descending\bin\Debug\Bubble Sort Selecyion Descending.xml
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Bubble Sort Selecyion Descending\obj\Debug\Bubble_Sort_Selecyion_Descending.Form1.resources
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Bubble Sort Selecyion Descending\obj\Debug\Bubble_Sort_Selecyion_Descending.Resources.resources
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Bubble Sort Selecyion Descending\obj\Debug\Bubble Sort Selecyion Descending.vbproj.GenerateResource.Cache
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Bubble Sort Selecyion Descending\obj\Debug\Bubble Sort Selecyion Descending.exe
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Bubble Sort Selecyion Descending\obj\Debug\Bubble Sort Selecyion Descending.xml
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Bubble Sort Selecyion Descending\obj\Debug\Bubble Sort Selecyion Descending.pdb

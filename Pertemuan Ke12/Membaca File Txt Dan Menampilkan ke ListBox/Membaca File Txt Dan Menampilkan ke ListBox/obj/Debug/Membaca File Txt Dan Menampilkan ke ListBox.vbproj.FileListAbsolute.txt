@@ -1,0 +1,20 @@
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Membaca File Txt Dan Menampilkan ke ListBox\bin\Debug\Membaca File Txt Dan Menampilkan ke ListBox.exe.config
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Membaca File Txt Dan Menampilkan ke ListBox\obj\Debug\Membaca_File_Txt_Dan_Menampilkan_ke_ListBox.Form1.resources
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Membaca File Txt Dan Menampilkan ke ListBox\obj\Debug\Membaca_File_Txt_Dan_Menampilkan_ke_ListBox.Resources.resources
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Membaca File Txt Dan Menampilkan ke ListBox\obj\Debug\Membaca File Txt Dan Menampilkan ke ListBox.vbproj.GenerateResource.Cache
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Membaca File Txt Dan Menampilkan ke ListBox\bin\Debug\Membaca File Txt Dan Menampilkan ke ListBox.exe
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Membaca File Txt Dan Menampilkan ke ListBox\bin\Debug\Membaca File Txt Dan Menampilkan ke ListBox.pdb
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Membaca File Txt Dan Menampilkan ke ListBox\bin\Debug\Membaca File Txt Dan Menampilkan ke ListBox.xml
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Membaca File Txt Dan Menampilkan ke ListBox\obj\Debug\Membaca File Txt Dan Menampilkan ke ListBox.exe
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Membaca File Txt Dan Menampilkan ke ListBox\obj\Debug\Membaca File Txt Dan Menampilkan ke ListBox.xml
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Membaca File Txt Dan Menampilkan ke ListBox\obj\Debug\Membaca File Txt Dan Menampilkan ke ListBox.pdb
+C:\Users\Muhammad Rifky\Documents\Visual Studio 2012\Projects\Membaca File Txt Dan Menampilkan ke ListBox\Membaca File Txt Dan Menampilkan ke ListBox\bin\Debug\Membaca File Txt Dan Menampilkan ke ListBox.exe.config
+C:\Users\Muhammad Rifky\Documents\Visual Studio 2012\Projects\Membaca File Txt Dan Menampilkan ke ListBox\Membaca File Txt Dan Menampilkan ke ListBox\obj\Debug\Membaca File Txt Dan Menampilkan ke ListBox.exe
+C:\Users\Muhammad Rifky\Documents\Visual Studio 2012\Projects\Membaca File Txt Dan Menampilkan ke ListBox\Membaca File Txt Dan Menampilkan ke ListBox\obj\Debug\Membaca File Txt Dan Menampilkan ke ListBox.xml
+C:\Users\Muhammad Rifky\Documents\Visual Studio 2012\Projects\Membaca File Txt Dan Menampilkan ke ListBox\Membaca File Txt Dan Menampilkan ke ListBox\obj\Debug\Membaca File Txt Dan Menampilkan ke ListBox.pdb
+C:\Users\Muhammad Rifky\Documents\Visual Studio 2012\Projects\Membaca File Txt Dan Menampilkan ke ListBox\Membaca File Txt Dan Menampilkan ke ListBox\obj\Debug\Membaca_File_Txt_Dan_Menampilkan_ke_ListBox.Form1.resources
+C:\Users\Muhammad Rifky\Documents\Visual Studio 2012\Projects\Membaca File Txt Dan Menampilkan ke ListBox\Membaca File Txt Dan Menampilkan ke ListBox\obj\Debug\Membaca_File_Txt_Dan_Menampilkan_ke_ListBox.Resources.resources
+C:\Users\Muhammad Rifky\Documents\Visual Studio 2012\Projects\Membaca File Txt Dan Menampilkan ke ListBox\Membaca File Txt Dan Menampilkan ke ListBox\obj\Debug\Membaca File Txt Dan Menampilkan ke ListBox.vbproj.GenerateResource.Cache
+C:\Users\Muhammad Rifky\Documents\Visual Studio 2012\Projects\Membaca File Txt Dan Menampilkan ke ListBox\Membaca File Txt Dan Menampilkan ke ListBox\bin\Debug\Membaca File Txt Dan Menampilkan ke ListBox.exe
+C:\Users\Muhammad Rifky\Documents\Visual Studio 2012\Projects\Membaca File Txt Dan Menampilkan ke ListBox\Membaca File Txt Dan Menampilkan ke ListBox\bin\Debug\Membaca File Txt Dan Menampilkan ke ListBox.pdb
+C:\Users\Muhammad Rifky\Documents\Visual Studio 2012\Projects\Membaca File Txt Dan Menampilkan ke ListBox\Membaca File Txt Dan Menampilkan ke ListBox\bin\Debug\Membaca File Txt Dan Menampilkan ke ListBox.xml
